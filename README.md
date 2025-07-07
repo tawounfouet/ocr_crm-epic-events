@@ -1,5 +1,5 @@
 
-# Epic Events CRM
+<h1 align="center">Epic Events CRM</h1>
 
 ## Aperçu du projet
 
