@@ -8,7 +8,7 @@ __pycache__/
 # Personal folders
 __archives/
 __resources/
-docs/
+
 
 
 
@@ -73,5 +73,6 @@ alembic/versions/*.py
 .DS_Store
 Thumbs.db
 
-tests/
-scripts/
+# tests/
+# scripts/
+# docs/
